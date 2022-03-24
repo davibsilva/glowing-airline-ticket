@@ -13,7 +13,6 @@ module.exports = () => {
   app.use(bodyParser.json());
   
   consign({ cwd: 'api' })
-    .then('data')
     .then('controllers')
     .then('routes')
     .into(app);
