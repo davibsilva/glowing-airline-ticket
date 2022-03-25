@@ -58,7 +58,7 @@ $ npm install
 
 # Crie um arquivo .env na raiz do projeto
 
-# Copie o conteúdo do arquivo .env.example na raiz do projeto e cole no arquivo .env recém criado e substitua os valores das variáveis pelas informações da sua base mysql
+# Copie o conteúdo do arquivo .env.example na raiz do projeto, cole no arquivo .env recém criado e substitua os valores das variáveis pelas informações da sua base mysql
 Exemplo:
 DB_USER=root
 DB_PWD=12345678
