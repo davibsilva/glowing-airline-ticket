@@ -17,7 +17,6 @@
 
 <p align="center">
   <a href="#dart-about">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Começando</a> &#xa0; | &#xa0;
@@ -27,17 +26,12 @@
 
 <br>
 
-## :dart: About ##
+## :dart: Sobre ##
 
 API no padrão REST para suportar um sistema de venda de passagens aéreas
 
-## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
-
-## :rocket: Technologies ##
+## :rocket: Tecnologias ##
 
 As seguintes ferramentas foram usadas neste projeto:
 
@@ -46,11 +40,11 @@ As seguintes ferramentas foram usadas neste projeto:
 - [Sequelize](https://sequelize.org/v6/manual/getting-started.html)
 - [Mysql](https://dev.mysql.com/doc/)
 
-## :white_check_mark: Requirements ##
+## :white_check_mark: Requisitos ##
 
 Antes de começar :checkered_flag:, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
 
-## :checkered_flag: Starting ##
+## :checkered_flag: Instruções para rodar a API ##
 
 ```bash
 # Clone o projeto projeto
@@ -72,13 +66,11 @@ $ npm start
 # O servidor irá iniciar em: <http://localhost:3000>
 ```
 
-## :memo: License ##
+## :memo: Licença ##
 
 Este projeto está sobre licença do MIT.
 
 
 Feito com :heart: por <a href="https://github.com/davibsilva" target="_blank">Davi Silva</a>
-
 &#xa0;
-
 <a href="#top">Voltar ao topo</a>
