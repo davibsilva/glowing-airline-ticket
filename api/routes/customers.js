@@ -4,6 +4,9 @@ module.exports = app => {
   app.route('/api/v1/customers')
     .get(controller.listCustomers);
   
+  app.route('/api/v1/customers/:id/tickets')
+    .get(controller.listCustomerTickets)
+  
   app.route('/api/v1/customers')
     .post(controller.createCustomer);
 };
