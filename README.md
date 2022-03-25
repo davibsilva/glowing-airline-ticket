@@ -73,4 +73,5 @@ Este projeto está sobre licença do MIT.
 
 Feito com :heart: por <a href="https://github.com/davibsilva" target="_blank">Davi Silva</a>
 &#xa0;
+
 <a href="#top">Voltar ao topo</a>
