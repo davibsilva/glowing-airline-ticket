@@ -60,6 +60,9 @@ $ npm install
 
 # Copie o conteúdo do arquivo .env.example na raiz do projeto e cole no arquivo .env recém criado e substitua os valores das variáveis pelas informações da sua base mysql
 
+# Rode as migrations
+$ npx sequelize-cli db:migrate
+
 # Rode o projeto
 $ npm start
 
