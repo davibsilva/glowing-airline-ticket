@@ -47,7 +47,7 @@ Antes de começar :checkered_flag:, você precisa ter [Git](https://git-scm.com)
 ## :checkered_flag: Instruções para rodar a API ##
 
 ```bash
-# Clone o projeto projeto
+# Clone o projeto
 $ git clone https://github.com/davibsilva/glowing-airline-ticket
 
 # Entre na pasta criada
